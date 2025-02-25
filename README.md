@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="report/images/logo.png" alt="ReGen3D Logo" width="200"/>
+  <img src="./report/images/logo.png" alt="ReGen3D Logo" width="200"/>
 </p>
 
 # ReGen3D
