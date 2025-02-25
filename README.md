@@ -39,5 +39,5 @@ Indian Institute of Technology Ropar
 
 ## Authors
 
-- Suresh (2024CSZ0009)
-- Raman Kumar (2024CSZ0012)
+- Suresh (2024CSZ0009) [LinkedIn](https://www.linkedin.com/in/encodedcoder)
+- Raman Kumar (2024CSZ0012) [LinkedIn](https://www.linkedin.com/in/mr-rmnkr/)
